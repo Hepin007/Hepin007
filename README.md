@@ -13,7 +13,7 @@
 ```python
 class Hepin:
     def __init__(self):
-        self.location = "India"
+        self.location = "Rajkot,Gujarat,India"
 
         self.interests = [
             "Artificial Intelligence",
