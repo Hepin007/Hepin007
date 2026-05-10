@@ -38,9 +38,35 @@ class Hepin:
 
 ## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,django,git,github,vscode" />
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,dart" />
 </p>
+
+### 🚀 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### 🤖 AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Machine Learning  
+- NLP  
+- Data Analysis  
+- Pandas & NumPy
 
 ---
 
