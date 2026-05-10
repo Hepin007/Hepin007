@@ -85,6 +85,16 @@ class Hepin:
   <a href="https://www.kaggle.com/chovatiyahepin">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48" />
   </a>
+
+  <a href="mailto:hepinchovatiya007@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a> •
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">Kaggle</a> •
+  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
 </p>
 
 ---
