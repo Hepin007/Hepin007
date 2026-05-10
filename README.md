@@ -154,7 +154,7 @@ A complete college management system with role-based authentication for students
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hepin-chovatiya-95738928b/">
+  <a href="https://www.linkedin.com/in/hepinchovatiya">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
@@ -168,9 +168,9 @@ A complete college management system with role-based authentication for students
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a> •
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">Kaggle</a> •
-  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/hepinchovatiya">LinkedIn</a> •
+  <a href="https://www.kaggle.com/chovatiyahepin">Kaggle</a> •
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hepinchovatiya007@gmail.com">Email</a>
 </p>
 
 ---
