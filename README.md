@@ -75,6 +75,58 @@ class Hepin:
 
 ---
 
+---
+
+## 🚀 Featured Projects
+
+### 🤖 E-Commerce AI Chatbot
+An AI-powered chatbot designed for e-commerce platforms to assist users with product queries, recommendations, and customer interaction.
+
+🔹 Python  
+🔹 Machine Learning  
+🔹 NLP  
+🔹 Chatbot Development   
+
+👉 [View Project](https://github.com/Hepin007/2526_sdp8_chatbot)
+
+---
+
+### 💸 Cash Flow — Expense Tracker
+A full-stack expense tracking web application built using the MERN stack to manage income, expenses, and financial records.
+
+🔹 MongoDB  
+🔹 Express.js  
+🔹 React.js  
+🔹 Node.js    
+
+👉 [View Project](https://github.com/Hepin007/Cash_Flow)
+
+---
+
+### 💬 Real-Time Chat Application
+A cross-platform real-time chat application built using Flutter and Firebase with authentication and instant messaging features.
+
+🔹 Flutter  
+🔹 Firebase  
+🔹 Real-Time Database  
+🔹 Authentication  
+
+👉 [View Project](https://github.com/Hepin007/Flutter-FireBase-Chatapp)
+
+---
+
+### 🏫 College Management System
+A complete college management system with role-based authentication for students, faculty, and HOD.
+
+🔹 Django  
+🔹 Role-Based Access  
+🔹 Attendance Management  
+🔹 Timetable System  
+
+👉 [View Project](https://github.com/Hepin007/college_managment_system1)
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
