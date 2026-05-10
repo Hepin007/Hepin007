@@ -10,7 +10,6 @@
 
 ## 🧠 About Me
 
-```python
 class Hepin:
     def __init__(self):
         self.location = "India"
@@ -32,7 +31,6 @@ class Hepin:
         ]
 
         self.status = "Learning something new every day 🚀"
-````
 
 ---
 
@@ -47,11 +45,11 @@ class Hepin:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chovatiyahepin&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hepin007&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chovatiyahepin&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hepin007&theme=tokyonight" />
 </p>
 
 ---
@@ -78,11 +76,11 @@ class Hepin:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/hepin-chovatiya-95738928b/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="YOUR_KAGGLE_LINK">
+  <a href="https://www.kaggle.com/chovatiyahepin">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48" />
   </a>
 </p>
