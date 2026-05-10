@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hey 👋, I'm Hepin</h1>
 
 <h3 align="center">Turning curiosity into code.</h3>
@@ -93,4 +92,3 @@ class Hepin:
 <p align="center">
   <i>"Still learning. Still building."</i>
 </p>
-```
