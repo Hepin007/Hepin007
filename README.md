@@ -47,11 +47,11 @@ class Hepin:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hepin007&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hepin007&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hepin007&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Hepin007&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
