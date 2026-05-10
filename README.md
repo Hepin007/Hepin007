@@ -10,9 +10,11 @@
 
 ## 🧠 About Me
 
+```python
 class Hepin:
     def __init__(self):
         self.location = "India"
+
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
@@ -31,7 +33,7 @@ class Hepin:
         ]
 
         self.status = "Learning something new every day 🚀"
-
+```
 ---
 
 ## ⚡ Tech Stack
