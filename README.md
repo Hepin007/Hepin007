@@ -101,8 +101,6 @@ class Hepin:
 
 ---
 
----
-
 ## 🚀 Featured Projects
 
 ### 🤖 E-Commerce AI Chatbot
