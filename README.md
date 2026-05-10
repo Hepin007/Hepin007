@@ -162,7 +162,7 @@ A complete college management system with role-based authentication for students
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48" />
   </a>
 
-  <a href="mailto:hepinchovatiya007@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hepinchovatiya007@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
